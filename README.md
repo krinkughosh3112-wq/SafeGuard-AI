@@ -9,18 +9,18 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🤖 **Real-time PPE Detection** — Detects helmets, vests, gloves, boots, goggles and violations
-- 📷 **4 Detection Modes** — Image Upload, Video Analysis, Live Webcam, Dataset Batch Test
-- 📧 **Automatic Email Alerts** — Gmail alerts with violation snapshot image attached
-- 📊 **Analytics Dashboard** — Charts, KPIs, trends and CSV export
-- 🔐 **Secure Credentials** — Passwords stored in `.env` file
-- 🎨 **Professional UI** — SafeGuard AI branding with light green theme
+-  **Real-time PPE Detection** — Detects helmets, vests, gloves, boots, goggles and violations
+-  **4 Detection Modes** — Image Upload, Video Analysis, Live Webcam, Dataset Batch Test
+-  **Automatic Email Alerts** — Gmail alerts with violation snapshot image attached
+-  **Analytics Dashboard** — Charts, KPIs, trends and CSV export
+- **Secure Credentials** — Passwords stored in `.env` file
+-  **Professional UI** — SafeGuard AI branding with light green theme
 
 ---
 
-## 🛡️ PPE Classes Detected
+##  PPE Classes Detected
 
 | Class | Description |
 |-------|-------------|
@@ -37,7 +37,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |-----------|---------|
@@ -51,7 +51,7 @@
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### 1. Clone the repository
 ```bash
@@ -73,12 +73,12 @@ Create a `.env` file in the project root:
 EMAIL_PASSWORD=your_gmail_app_password_here
 ```
 
-> ⚠️ Use a **Gmail App Password** — not your regular Gmail password!
+>  Use a **Gmail App Password** — not your regular Gmail password!
 > Get it from: Google Account → Security → 2-Step Verification → App Passwords
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 streamlit run app.py
@@ -88,26 +88,26 @@ Open browser at: **http://localhost:8501**
 
 ---
 
-## 📱 Detection Modes
+## Detection Modes
 
-### 1. 📷 Image Upload
+### 1. Image Upload
 Upload any JPG/PNG construction site image for instant PPE analysis.
 
-### 2. 🎬 Video Analysis
+### 2. Video Analysis
 Upload MP4 videos for frame-by-frame detection with automatic email alerts.
 
-### 3. 📹 Live Webcam
+### 3. Live Webcam
 Real-time webcam feed with continuous PPE monitoring and instant alerts.
 
-### 4. 📦 Dataset Batch Test
+### 4. Dataset Batch Test
 Bulk test multiple images with paginated results and report export.
 
-### 5. 📊 Analytics Dashboard
+### 5. Analytics Dashboard
 View violation trends, KPI cards, peak hours chart and export CSV reports.
 
 ---
 
-## 📧 Email Alert Setup
+## Email Alert Setup
 
 1. Enable **2-Step Verification** on your Gmail account
 2. Go to **Google Account → Security → App Passwords**
@@ -116,7 +116,7 @@ View violation trends, KPI cards, peak hours chart and export CSV reports.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 SafeGuard-AI/
@@ -132,7 +132,7 @@ SafeGuard-AI/
 
 ---
 
-## 🔧 Detection Settings
+##  Detection Settings
 
 | Setting | Value | Reason |
 |---------|-------|--------|
@@ -143,7 +143,7 @@ SafeGuard-AI/
 
 ---
 
-## 👩‍💻 Developer
+## Developer
 
 **Rinku Ghosh**
 - GitHub: [@krinkughosh3112-wq](https://github.com/krinkughosh3112-wq)
