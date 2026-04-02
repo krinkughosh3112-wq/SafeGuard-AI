@@ -12,22 +12,7 @@
 
 ---
 
-## Screenshots
 
-###  Main Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-###  PPE Detection in Action
-![Detection](screenshots/detection.png)
-
-###  Analytics Dashboard
-![Analytics](screenshots/analytics.png)
-
-###  Email Alert Sample
-![Email Alert](screenshots/email_alert.png)
-
-> *Add your own screenshots in the `screenshots/` folder 
-> after running the app.*
 
 ---
 
